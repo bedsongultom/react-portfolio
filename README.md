@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://bedsongultom.gitlab.io/portfolio/).
+This project was bootstrapped with [bedsongultom.gitlab.io](https://bedsongultom.gitlab.io/portfolio/).
 
 ## Available Scripts
 
