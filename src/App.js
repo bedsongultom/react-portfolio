@@ -9,8 +9,8 @@ import ImgPortFolio6 from './assets/img/IMG_20201028_133546_170.jpg';
 import ImgProfile    from './assets/img/profile.jpg';
 
 class App extends Component {
-    constructor(props){
-        super(props);
+    constructor(){
+        super();
         this.state = {
             isExpand : false,
             currentYear: '',
